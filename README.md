@@ -2,8 +2,12 @@
 
 AWS勉強の記録
 
-## Cognito
+## 認定試験
+- [AWS 認定](https://aws.amazon.com/jp/certification/)
+
+## 各技術
+### Cognito
 - [Resources](./Cognito/resources.md)
 
-## IAM
+### IAM
 - [Resources](./IAM/resources.md)
